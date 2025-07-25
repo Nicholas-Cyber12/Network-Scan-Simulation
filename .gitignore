@@ -1,0 +1,6 @@
+# Ignore system files and editor clutter
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+__pycache__/
