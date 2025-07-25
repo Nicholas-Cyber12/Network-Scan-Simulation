@@ -26,10 +26,10 @@ nmap -sS -sV 192.168.0.105
 # OS detection and aggressive scan
 nmap -A 192.168.0.105
 
-# Output Samples
+## Output Samples
 Full network scan saved to scans/full-network-scan.txt
 
 Targeted host scan saved to scans/targeted-scan.txt
 
-# Report
+## Report
 Find the analysis in reports/nmap-analysis-report.md
