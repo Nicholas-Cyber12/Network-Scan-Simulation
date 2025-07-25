@@ -1,0 +1,19 @@
+## `full-network-scan.txt`
+
+```txt
+# Nmap 7.94 scan initiated at 2025-07-25
+Nmap scan report for 192.168.0.105
+Host is up (0.0021s latency).
+All 1000 scanned ports on 192.168.0.105 are closed
+
+Nmap scan report for 192.168.0.110
+Host is up (0.0017s latency).
+PORT    STATE SERVICE
+21/tcp  open  ftp
+80/tcp  open  http
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+
+...
+
+# 7 hosts up scanned from 256 addresses
