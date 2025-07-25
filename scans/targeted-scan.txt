@@ -1,0 +1,10 @@
+# Targeted SYN scan with service detection
+Nmap scan report for 192.168.0.105
+Host is up (0.0020s latency).
+PORT    | STATE SERVICE  |  VERSION
+22/tcp   open  ssh          OpenSSH 7.9
+80/tcp   open  http         Apache httpd 2.4.29
+139/tcp  open  netbios-ssn  Samba smbd 3.X - 4.X
+3389/tcp open  ms-wbt-server Microsoft Terminal Services
+
+Service detection performed. Please report any incorrect results.
